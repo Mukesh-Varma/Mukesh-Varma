@@ -18,18 +18,13 @@
      - 2016 - 2017
 
 ### Licenses & Certifications
-  - Python For Everybody Specialization
+  - Google IT Support professional Certificate
     - Coursera - Aug 2020
-      - [Credential ID GFSU9RBCV5DF](https://www.coursera.org/account/accomplishments/specialization/certificate/GFSU9RBCV5DF)
-  - AWS Technical Essentials and Architecting
-    - Coursera - June 2020
-      - [Credential ID DU2PYK9I](https://drive.google.com/file/d/183oGrley9EHkHigEoo6Tsx6V6_CBJU9Y/view)
+      - [Credential ID V4A47BVFFN33](https://www.coursera.org/account/accomplishments/professional-cert/V4A47BVFFN33)
   - AI For Everyone
     - Coursera - July 2020
-      - [Credential ID FNY5HEHTRGMN](https://www.coursera.org/account/accomplishments/certificate/FNY5HEHTRGMN)
-  - Introduction to Virtual Reality
-    - Coursera - Aug 2020
-      - [Credential ID HB4K9CH2LD3U](https://www.coursera.org/account/accomplishments/certificate/HB4K9CH2LD3U)      
+      - [Credential ID 7VJEH647ZWG8](https://www.coursera.org/account/accomplishments/verify/7VJEH647ZWG8)
+       
 
   
 ### Languages and Tools:
