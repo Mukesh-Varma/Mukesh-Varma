@@ -1,5 +1,5 @@
 ### Hi there, I'm Mukesh Varma👋
-- B.Tech Electrical & Electronics Engineering. As a Student of Electrical & Electronics Engineering, My Field of Interest is very diverse. I am Familiar with Electric Networks,C, C++,Kotlin. Majorly i have passion towards Learning new Technologies related to Electrical & Electronics Engineering. :smile::smile:
+- B.Tech Electrical & Electronics Engineering. As a Student of Electrical & Electronics Engineering, My Field of Interest is very diverse.Majorly i have passion towards Learning new Technologies related to Electrical & Electronics Engineering. :smile::smile:
 
 ### Experience!:briefcase:
 
