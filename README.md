@@ -24,7 +24,7 @@
   - AI For Everyone
     - Coursera - July 2020
       - [Credential ID 7VJEH647ZWG8](https://www.coursera.org/account/accomplishments/verify/7VJEH647ZWG8)
-  -COVID-19 Contact Tracing
+  - COVID-19 Contact Tracing
     - Coursera - June 2020
       - [Credential ID 63AVGSS22TWQ](https://www.coursera.org/account/accomplishments/verify/63AVGSS22TWQ)
        
