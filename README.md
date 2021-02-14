@@ -1,16 +1,63 @@
-### Hi there 👋
+### Hi there, I'm Mukesh Varma aka Mukesh👋
+- B.Tech Electrical & Electronics Engineering. As a Student of Electrical & Electronics Engineering, My Field of Interest is very diverse. I am Familiar with Electric Networks,C, C++,Kotlin. Majorly i have passion towards Learning new Technologies related to Electrical & Electronics Engineering. :smile::smile:
 
-<!--
-**Mukesh-Varma/Mukesh-Varma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience!:briefcase:
 
-Here are some ideas to get you started:
+  - Campus Ambassador (Internship)
+    - Indian Robotics Community
+      - September 2020 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education!
+  - Sastra Deemed University:mortar_board::
+    - Bachelor's Degree, Electrical & Electronics Engineering
+      - 2019 - 2023
+  - Sri Venkateswara Junior College:school_satchel::
+    - High School 
+      - 2017 - 2019
+  - Sri Chaitanya E.M School:school::
+     - 2016 - 2017
+
+### Licenses & Certifications
+  - Python For Everybody Specialization
+    - Coursera - Aug 2020
+      - [Credential ID GFSU9RBCV5DF](https://www.coursera.org/account/accomplishments/specialization/certificate/GFSU9RBCV5DF)
+  - AWS Technical Essentials and Architecting
+    - Coursera - June 2020
+      - [Credential ID DU2PYK9I](https://drive.google.com/file/d/183oGrley9EHkHigEoo6Tsx6V6_CBJU9Y/view)
+  - AI For Everyone
+    - Coursera - July 2020
+      - [Credential ID FNY5HEHTRGMN](https://www.coursera.org/account/accomplishments/certificate/FNY5HEHTRGMN)
+  - Introduction to Virtual Reality
+    - Coursera - Aug 2020
+      - [Credential ID HB4K9CH2LD3U](https://www.coursera.org/account/accomplishments/certificate/HB4K9CH2LD3U)      
+
+  
+### Languages and Tools:
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="Mukesh Varma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mukesh Varma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mukesh Varma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+<br />
+<br />
+
+
+
+[linkedin]: https://www.linkedin.com/in/Datla-Mukesh-Varma
+[instagram]: https://www.instagram.com/mr.varma_18/
+[twitter]: https://twitter.com/mukeshvarma_18
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mukesh-Varma)
+
