@@ -27,7 +27,9 @@
   - COVID-19 Contact Tracing
     - Coursera - June 2020
       - [Credential ID 63AVGSS22TWQ](https://www.coursera.org/account/accomplishments/verify/63AVGSS22TWQ)
-       
+
+### Blogs
+   -Eloquent about Artificial Intelligence(https://mukesh-varma.medium.com/eloquent-about-artificial-intelligence-1a2b0a2d0a05)
 
   
 ### Languages and Tools:
