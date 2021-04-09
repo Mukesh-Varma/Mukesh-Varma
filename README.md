@@ -28,7 +28,7 @@
     - Coursera - June 2020
       - [Credential ID 63AVGSS22TWQ](https://www.coursera.org/account/accomplishments/verify/63AVGSS22TWQ)
 
-### Blogs
+### Technial Blogs
    - [Eloquent about Artificial Intelligence](https://mukesh-varma.medium.com/eloquent-about-artificial-intelligence-1a2b0a2d0a05)
 
   
