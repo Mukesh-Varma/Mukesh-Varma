@@ -17,7 +17,6 @@
   - Sri Chaitanya E.M School:school::
      - 2016 - 2017
 
-
 ### Licenses & Certifications
   - Google IT Support professional Certificate
     - Coursera - Aug 2020
