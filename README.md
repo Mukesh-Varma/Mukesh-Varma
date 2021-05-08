@@ -1,5 +1,6 @@
 ### Hi there, I'm Mukesh Varma👋
-- B.Tech Electrical & Electronics Engineering. As a Student of Electrical & Electronics Engineering, My Field of Interest is very diverse.Majorly i have passion towards Learning new Technologies related to Electrical & Electronics Engineering. :smile::smile:
+- I'm Engaged in Full Time Learning Process, as a Full Time Learner my fields of Interest are Diverse.
+- I'm really fascinated to Explore about new Technologies which created huge impact on the people's lifestyle. :smile::smile:
 
 ### Experience!:briefcase:
 
