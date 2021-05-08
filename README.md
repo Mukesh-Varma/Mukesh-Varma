@@ -1,6 +1,5 @@
 ### Hi there, I'm Mukesh Varma👋
-- I'm Engaged in Full Time Learning Process, as a Full Time Learner my fields of Interest are Diverse.
-- I'm really fascinated to Explore about new Technologies which created huge impact on the people's lifestyle. :smile::smile:
+- I'm Engaged in Full Time Learning Process, as a Full Time Learner my fields of Interest are Diverse. But I'm really fascinated to Explore about new Technologies which created/creates huge impact on the people's lifestyle. :smile::smile:
 
 ### Experience!:briefcase:
 
